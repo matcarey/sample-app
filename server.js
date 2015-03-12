@@ -1,4 +1,4 @@
-var io = require('./lib/io');
+var io = require('io-demo');
 var remaining = 5;
 var right = 0;
 var wrong = 0;
